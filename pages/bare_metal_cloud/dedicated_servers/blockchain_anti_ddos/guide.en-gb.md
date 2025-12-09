@@ -36,7 +36,7 @@ Please note that in the future, you will be able to control Anti-DDoS behaviour 
 
 If you are not sure about which elements you should send to our teams, you can refer to the following use case.
 
-### Use Cas : Solana
+### Use Case: Solana
 
 Solana is a high-performance blockchain platform known for its exceptional speed and low transaction costs, making it a popular alternative for decentralized applications. It achieves this by using a unique cryptographic clock called Proof of History (PoH), which timestamps transactions to enable parallel processing and greater efficiency. This system is paired with a Proof of Stake (PoS) consensus mechanism, in which validators are chosen based on their SOL stake, thus ensuring the security and decentralisation of the network.
 
